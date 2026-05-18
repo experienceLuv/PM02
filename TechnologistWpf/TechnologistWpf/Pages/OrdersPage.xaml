@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="TechnologistWpf.Pages.OrdersPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="16">
+        <StackPanel>
+            <TextBlock Text="Производственные заказы" FontSize="22" FontWeight="Light" Foreground="#5D4037" Margin="0,0,0,12"/>
+            <DataGrid x:Name="DgOrders" AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер заказа" Binding="{Binding OrderNumber}" Width="*"/>
+                    <DataGridTextColumn Header="Рецепт ID" Binding="{Binding RecipeId}" Width="80"/>
+                    <DataGridTextColumn Header="План. кол-во" Binding="{Binding PlannedQuantityKg}" Width="100"/>
+                    <DataGridTextColumn Header="Статус" Binding="{Binding StatusId}" Width="60"/>
+                    <DataGridTextColumn Header="План. дата" Binding="{Binding PlannedStartDate}" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</UserControl>

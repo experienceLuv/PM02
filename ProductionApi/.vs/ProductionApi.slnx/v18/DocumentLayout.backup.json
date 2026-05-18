@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\technologicalmapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\technologicalmapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\stepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\stepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\batchstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\batchstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\productionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\labtestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\labtestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\rawmateriallotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\rawmateriallotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\labtestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\labtestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\models\\allmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\models\\allmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\recipecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\recipecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\loginwithcaptchadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\loginwithcaptchadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\captchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\captchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\completestepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\completestepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\labservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\labservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\mapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\mapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\rawmateriallotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\rawmateriallotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\labtestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\labtestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\technologicalmapcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\technologicalmapcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\labdecisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\labdecisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\productionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\productionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\productionapi\\productionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D1F6127-4880-4926-D36F-659194CA7FDF}|ProductionApi\\ProductionApi.csproj|solutionrelative:productionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 132,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:51:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:12:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:56:45.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechnologicalMapsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\TechnologicalMapsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\TechnologicalMapsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\TechnologicalMapsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\TechnologicalMapsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:12:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\AuditLogsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\AuditLogsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\AuditLogsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\AuditLogsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:56:35.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:12:29.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StepsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\StepsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\StepsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\StepsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\StepsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:03:46.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\BatchesController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\BatchesController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\BatchesController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\BatchesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:41:37.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BatchStepsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\BatchStepsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\BatchStepsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\BatchStepsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\BatchStepsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:51:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductionService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\ProductionService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\ProductionService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\ProductionService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\ProductionService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:39:45.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LabTestsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\LabTestsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\LabTestsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\LabTestsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\LabTestsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAhwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:41:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductionApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAQwOkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:10:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RawMaterialLotsController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\RawMaterialLotsController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\RawMaterialLotsController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\RawMaterialLotsController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\RawMaterialLotsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:56:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Program.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Program.cs",
+              "RelativeToolTip": "ProductionApi\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:11:37.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LabTestDtos.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LabTestDtos.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\LabTestDtos.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LabTestDtos.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\LabTestDtos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:20:21.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AllModels.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Models\\AllModels.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Models\\AllModels.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Models\\AllModels.cs",
+              "RelativeToolTip": "ProductionApi\\Models\\AllModels.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAzwHsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:15:03.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ProductionApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:17:13.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\RecipeCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\RecipeCreateDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\RecipeCreateDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\RecipeCreateDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:53:55.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Models\\Dtos.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Models\\Dtos.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Models\\Dtos.cs",
+              "RelativeToolTip": "ProductionApi\\Models\\Dtos.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA6wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:20:50.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CaptchaService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\CaptchaService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\CaptchaService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\CaptchaService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\CaptchaService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:53:00.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:11:28.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:12:01.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginWithCaptchaDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LoginWithCaptchaDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\LoginWithCaptchaDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LoginWithCaptchaDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\LoginWithCaptchaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:54:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CaptchaController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\CaptchaController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\CaptchaController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\CaptchaController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\CaptchaController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:53:40.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CompleteStepDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\CompleteStepDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\CompleteStepDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\CompleteStepDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\CompleteStepDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:44:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductionOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\ProductionOrdersController.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Controllers\\ProductionOrdersController.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Controllers\\ProductionOrdersController.cs",
+              "RelativeToolTip": "ProductionApi\\Controllers\\ProductionOrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:41:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\ReportService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\ReportService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:55:13.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LabService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\LabService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\LabService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\LabService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\LabService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:55:01.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MapService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\MapService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\MapService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\MapService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\MapService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:54:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\Services\\RecipeService.cs",
+              "RelativeToolTip": "ProductionApi\\Services\\RecipeService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:54:37.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RawMaterialLotDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\RawMaterialLotDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\RawMaterialLotDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\RawMaterialLotDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\RawMaterialLotDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:54:27.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LabTestCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LabTestCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\LabTestCreateDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LabTestCreateDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\LabTestCreateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:54:15.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TechnologicalMapCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\TechnologicalMapCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\TechnologicalMapCreateDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\TechnologicalMapCreateDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\TechnologicalMapCreateDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:54:05.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\PaginatedResponse.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\PaginatedResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:53:44.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LabDecisionDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LabDecisionDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\LabDecisionDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LabDecisionDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\LabDecisionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:44:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductionApi.csproj",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\ProductionApi.csproj",
+              "RelativeDocumentMoniker": "ProductionApi\\ProductionApi.csproj",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\ProductionApi.csproj",
+              "RelativeToolTip": "ProductionApi\\ProductionApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T07:11:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA9wAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:10:51.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ProductionApi\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ProductionApi\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:10:33.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductionApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\ProductionApi\\ProductionApi\\appsettings.json",
+              "RelativeToolTip": "ProductionApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T07:08:21.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

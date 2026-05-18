@@ -1,0 +1,57 @@
+﻿Type,Item,Item,HasValues,First,Last,Count,Parent,Root,Next,Previous,Path
+Object,,,True,"id": 1,"actualQuantityKg": 998.0,6,,{
+  "id": 1,
+  "batchNumber": "B-2401-01",
+  "startTime": "2025-03-01T08:00:00",
+  "endTime": "2025-03-01T14:30:00",
+  "statusId": 10,
+  "actualQuantityKg": 998.0
+},,,
+Object,,,True,"id": 2,"actualQuantityKg": 1002.0,6,,{
+  "id": 2,
+  "batchNumber": "B-2401-02",
+  "startTime": "2025-03-02T08:15:00",
+  "endTime": "2025-03-02T15:00:00",
+  "statusId": 11,
+  "actualQuantityKg": 1002.0
+},,,
+Object,,,True,"id": 5,"actualQuantityKg": 298.0,6,,{
+  "id": 5,
+  "batchNumber": "B-2405-01",
+  "startTime": "2025-03-01T12:00:00",
+  "endTime": "2025-03-01T16:45:00",
+  "statusId": 11,
+  "actualQuantityKg": 298.0
+},,,
+Object,,,True,"id": 7,"actualQuantityKg": 1195.0,6,,{
+  "id": 7,
+  "batchNumber": "B-2408-01",
+  "startTime": "2025-03-02T06:00:00",
+  "endTime": "2025-03-02T13:20:00",
+  "statusId": 11,
+  "actualQuantityKg": 1195.0
+},,,
+Object,,,True,"id": 9,"actualQuantityKg": 1795.0,6,,{
+  "id": 9,
+  "batchNumber": "B-2412-01",
+  "startTime": "2025-03-03T05:45:00",
+  "endTime": "2025-03-03T16:10:00",
+  "statusId": 11,
+  "actualQuantityKg": 1795.0
+},,,
+Object,,,True,"id": 11,"actualQuantityKg": 2098.0,6,,{
+  "id": 11,
+  "batchNumber": "B-2415-01",
+  "startTime": "2025-03-04T07:00:00",
+  "endTime": "2025-03-04T18:30:00",
+  "statusId": 11,
+  "actualQuantityKg": 2098.0
+},,,
+Object,,,True,"id": 13,"actualQuantityKg": 668.0,6,,{
+  "id": 13,
+  "batchNumber": "B-2420-01",
+  "startTime": "2025-03-05T10:15:00",
+  "endTime": "2025-03-05T17:45:00",
+  "statusId": 11,
+  "actualQuantityKg": 668.0
+},,,

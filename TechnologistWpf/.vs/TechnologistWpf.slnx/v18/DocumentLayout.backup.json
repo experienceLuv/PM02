@@ -1,0 +1,996 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\operatorclient\\pages\\reportproblempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\reportproblempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\operatorclient\\pages\\reportproblempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\reportproblempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\labclient\\pages\\rawmateriallotspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\pages\\rawmateriallotspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\labclient\\pages\\createlabtestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\pages\\createlabtestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\labclient\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\labclient\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\labclient\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\labclient\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\views\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\views\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\extruderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\extruderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\extruderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\extruderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\pages\\extruderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\extruderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\pages\\mapspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\mapspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\pages\\extruderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\extruderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\pages\\auditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\auditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|c:\\users\\experienceluv\\desktop\\\u043F\u043C02\\\u0441\u0435\u0441\u0441\u0438\u044F 2\\technologistwpf\\technologistwpf\\pages\\auditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\auditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\models\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\models\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\batchespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\batchespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\batchespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\batchespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\recipespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\recipespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\recipespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\recipespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\views\\mapeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\mapeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\services\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\services\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\technologistwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F0C7547-9DC7-4637-8739-9AC5EE14BA62}|TechnologistWpf\\TechnologistWpf.csproj|solutionrelative:technologistwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\activebatchespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\activebatchespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\activebatchespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\activebatchespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\batchprogrampage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\batchprogrampage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\batchprogrampage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\batchprogrampage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\batchlogpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\batchlogpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\pages\\batchlogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\pages\\batchlogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\models\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\models\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\operatorclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74311371-7AEE-4844-86E1-1865754EFE9F}|OperatorClient\\OperatorClient.csproj|solutionrelative:operatorclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\labclient\\pages\\rawmateriallotspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\pages\\rawmateriallotspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\labclient\\views\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\views\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\labclient\\pages\\rawmateriallotcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D1435-4B31-4AFA-9CC0-A5A7BB102CEC}|LabClient\\LabClient.csproj|solutionrelative:labclient\\pages\\rawmateriallotcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 155,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:25:11.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "OperatorClient\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:21:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportProblemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ReportProblemPage.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\ReportProblemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ReportProblemPage.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Pages\\ReportProblemPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:37:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportProblemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ReportProblemPage.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\ReportProblemPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ReportProblemPage.xaml",
+              "RelativeToolTip": "OperatorClient\\Pages\\ReportProblemPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:37:10.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RawMaterialLotsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\RawMaterialLotsPage.xaml",
+              "RelativeDocumentMoniker": "LabClient\\Pages\\RawMaterialLotsPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\RawMaterialLotsPage.xaml",
+              "RelativeToolTip": "LabClient\\Pages\\RawMaterialLotsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T10:39:40.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Services\\ExportHelper.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Services\\ExportHelper.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Services\\ExportHelper.cs",
+              "RelativeToolTip": "TechnologistWpf\\Services\\ExportHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:02:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:48:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T06:48:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:38:05.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateLabTestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\CreateLabTestWindow.xaml",
+              "RelativeDocumentMoniker": "LabClient\\Pages\\CreateLabTestWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\CreateLabTestWindow.xaml",
+              "RelativeToolTip": "LabClient\\Pages\\CreateLabTestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:35:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LabClient\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "LabClient\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:35:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\InputDialog.xaml",
+              "RelativeDocumentMoniker": "LabClient\\Views\\InputDialog.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\InputDialog.xaml",
+              "RelativeToolTip": "LabClient\\Views\\InputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T09:13:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabClient\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "LabClient\\Views\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:34:07.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BatchProgramPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchProgramPage.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\BatchProgramPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchProgramPage.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Pages\\BatchProgramPage.xaml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:30:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BatchProgramPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchProgramPage.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\BatchProgramPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchProgramPage.xaml",
+              "RelativeToolTip": "OperatorClient\\Pages\\BatchProgramPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:29:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BatchLogPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchLogPage.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\BatchLogPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchLogPage.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Pages\\BatchLogPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:31:15.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BatchLogPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchLogPage.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\BatchLogPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\BatchLogPage.xaml",
+              "RelativeToolTip": "OperatorClient\\Pages\\BatchLogPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:31:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "InputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\InputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "LabClient\\Views\\InputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\InputDialog.xaml.cs",
+              "RelativeToolTip": "LabClient\\Views\\InputDialog.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:13:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabClient\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "LabClient\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:31:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "OperatorClient\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:37:57.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApiModels.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Models\\ApiModels.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Models\\ApiModels.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Models\\ApiModels.cs",
+              "RelativeToolTip": "OperatorClient\\Models\\ApiModels.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:28:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Services\\AuthService.cs",
+              "RelativeToolTip": "OperatorClient\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:33:04.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RawMaterialLotsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\RawMaterialLotsPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabClient\\Pages\\RawMaterialLotsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\RawMaterialLotsPage.xaml.cs",
+              "RelativeToolTip": "LabClient\\Pages\\RawMaterialLotsPage.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:39:47.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\ProductEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\ProductEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\ProductEditWindow.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Views\\ProductEditWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:28:45.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\ProductEditWindow.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\ProductEditWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\ProductEditWindow.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Views\\ProductEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:28:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\AuditPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\AuditPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\AuditPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\AuditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:57:28.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExtruderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ExtruderPage.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\ExtruderPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ExtruderPage.xaml",
+              "RelativeToolTip": "OperatorClient\\Pages\\ExtruderPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:30:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExtruderPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ExtruderPage.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\ExtruderPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ExtruderPage.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Pages\\ExtruderPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:39:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExtruderPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ExtruderPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\ExtruderPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ExtruderPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\ExtruderPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:17:04.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiModels.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Models\\ApiModels.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Models\\ApiModels.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Models\\ApiModels.cs",
+              "RelativeToolTip": "TechnologistWpf\\Models\\ApiModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:47:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\AuditPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\AuditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\AuditPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\AuditPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:10:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExtruderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ExtruderPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\ExtruderPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ExtruderPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\ExtruderPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:16:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\MapsPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\MapsPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\MapsPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\MapsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T07:17:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Services\\ApiClient.cs",
+              "RelativeToolTip": "OperatorClient\\Services\\ApiClient.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:32:54.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\App.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:23:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\packages.config",
+              "RelativeDocumentMoniker": "OperatorClient\\packages.config",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\packages.config",
+              "RelativeToolTip": "OperatorClient\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-16T06:14:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\App.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\App.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\App.xaml",
+              "RelativeToolTip": "OperatorClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:23:14.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Services\\ApiClient.cs",
+              "RelativeToolTip": "TechnologistWpf\\Services\\ApiClient.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:46:44.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\App.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:46:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Services\\AuthService.cs",
+              "RelativeToolTip": "TechnologistWpf\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:46:49.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAxwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:49:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T06:49:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\App.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\App.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\App.xaml",
+              "RelativeToolTip": "TechnologistWpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T06:46:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BatchesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\BatchesPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\BatchesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\BatchesPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\BatchesPage.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:52:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BatchesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\BatchesPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\BatchesPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\BatchesPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\BatchesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:52:39.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\OrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\OrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\OrdersPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\OrdersPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:07:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReportsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ReportsPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\ReportsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ReportsPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\ReportsPage.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:12:57.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\OrdersPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\OrdersPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\OrdersPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\OrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:07:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReportsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ReportsPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\ReportsPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ReportsPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\ReportsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:02:56.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RecipesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\RecipesPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\RecipesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\RecipesPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\RecipesPage.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:59:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RecipesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\RecipesPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\RecipesPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\RecipesPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\RecipesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T06:58:56.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\ProductsPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ProductsPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\ProductsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:07:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:10:20.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\DashboardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\DashboardPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:06:53.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Pages\\DashboardPage.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Pages\\DashboardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:06:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MapEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\MapEditWindow.xaml",
+              "RelativeDocumentMoniker": "TechnologistWpf\\Views\\MapEditWindow.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\TechnologistWpf\\Views\\MapEditWindow.xaml",
+              "RelativeToolTip": "TechnologistWpf\\Views\\MapEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T07:04:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ActiveBatchesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ActiveBatchesPage.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\ActiveBatchesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ActiveBatchesPage.xaml.cs",
+              "RelativeToolTip": "OperatorClient\\Pages\\ActiveBatchesPage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:29:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ActiveBatchesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ActiveBatchesPage.xaml",
+              "RelativeDocumentMoniker": "OperatorClient\\Pages\\ActiveBatchesPage.xaml",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\OperatorClient\\Pages\\ActiveBatchesPage.xaml",
+              "RelativeToolTip": "OperatorClient\\Pages\\ActiveBatchesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T05:29:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RawMaterialLotCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\RawMaterialLotCard.xaml.cs",
+              "RelativeDocumentMoniker": "LabClient\\Pages\\RawMaterialLotCard.xaml.cs",
+              "ToolTip": "C:\\Users\\experienceLuv\\Desktop\\\u041F\u041C02\\\u0421\u0415\u0421\u0421\u0418\u042F 2\\TechnologistWpf\\LabClient\\Pages\\RawMaterialLotCard.xaml.cs",
+              "RelativeToolTip": "LabClient\\Pages\\RawMaterialLotCard.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:11:54.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

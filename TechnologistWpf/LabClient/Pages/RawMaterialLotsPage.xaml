@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="LabClient.Pages.RawMaterialLotsPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Партии сырья" FontSize="20" FontWeight="Light" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBox x:Name="TxtSearch" Width="200" />
+                <Button Content="Найти" Click="BtnSearch_Click" Margin="10,0,0,0"/>
+                <Button Content="Сбросить" Click="BtnReset_Click" Margin="5,0,0,0"/>
+            </StackPanel>
+            <DataGrid x:Name="DgLots" AutoGenerateColumns="False" IsReadOnly="True"
+                      MouseDoubleClick="DgLots_MouseDoubleClick">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер партии" Binding="{Binding LotNumber}" />
+                    <DataGridTextColumn Header="Материал ID" Binding="{Binding RawMaterialId}" />
+                    <DataGridTextColumn Header="Поставщик" Binding="{Binding Supplier}" />
+                    <DataGridTextColumn Header="Дата поступления" Binding="{Binding ReceiptDate, StringFormat=\{0:dd.MM.yyyy\}}" />
+                    <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" />
+                    <DataGridTextColumn Header="Ед. изм." Binding="{Binding Unit}" />
+                    <DataGridTextColumn Header="Статус" Binding="{Binding StatusId}" />
+                </DataGrid.Columns>
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding StatusId}" Value="12">
+                                <Setter Property="Background" Value="#FFF9C4"/>
+                                <!-- pending -->
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding StatusId}" Value="14">
+                                <Setter Property="Background" Value="#C8E6C9"/>
+                                <!-- approved -->
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding StatusId}" Value="15">
+                                <Setter Property="Background" Value="#FFCDD2"/>
+                                <!-- blocked -->
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.RowStyle>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</UserControl>

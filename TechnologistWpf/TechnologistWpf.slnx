@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LabClient/LabClient.csproj" Id="739d1435-4b31-4afa-9cc0-a5a7bb102cec" />
+  <Project Path="OperatorClient/OperatorClient.csproj" Id="74311371-7aee-4844-86e1-1865754efe9f" />
+  <Project Path="TechnologistWpf/TechnologistWpf.csproj" Id="9f0c7547-9dc7-4637-8739-9ac5ee14ba62" />
+</Solution>

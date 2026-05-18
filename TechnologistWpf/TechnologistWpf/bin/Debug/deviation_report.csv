@@ -1,0 +1,55 @@
+﻿Type,Item,Item,HasValues,First,Last,Count,Parent,Root,Next,Previous,Path
+Object,,,True,"batchNumber": "B-2401-01","actualTempC": 78.2,4,,{
+  "batchNumber": "B-2401-01",
+  "stepName": "Экструзия",
+  "plannedTempC": 80.0,
+  "actualTempC": 78.2
+},,,
+Object,,,True,"batchNumber": "B-2401-02","actualTempC": 46.1,4,,{
+  "batchNumber": "B-2401-02",
+  "stepName": "Смешивание",
+  "plannedTempC": 45.0,
+  "actualTempC": 46.1
+},,,
+Object,,,True,"batchNumber": "B-2401-02","actualTempC": 58.9,4,,{
+  "batchNumber": "B-2401-02",
+  "stepName": "Выдержка",
+  "plannedTempC": 60.0,
+  "actualTempC": 58.9
+},,,
+Object,,,True,"batchNumber": "B-2401-02","actualTempC": 79.5,4,,{
+  "batchNumber": "B-2401-02",
+  "stepName": "Экструзия",
+  "plannedTempC": 80.0,
+  "actualTempC": 79.5
+},,,
+Object,,,True,"batchNumber": "B-2405-01","actualTempC": 49.9,4,,{
+  "batchNumber": "B-2405-01",
+  "stepName": "Смешивание",
+  "plannedTempC": 50.0,
+  "actualTempC": 49.9
+},,,
+Object,,,True,"batchNumber": "B-2405-01","actualTempC": 64.5,4,,{
+  "batchNumber": "B-2405-01",
+  "stepName": "Выдержка",
+  "plannedTempC": 65.0,
+  "actualTempC": 64.5
+},,,
+Object,,,True,"batchNumber": "B-2408-01","actualTempC": 61.5,4,,{
+  "batchNumber": "B-2408-01",
+  "stepName": "Выдержка",
+  "plannedTempC": 62.0,
+  "actualTempC": 61.5
+},,,
+Object,,,True,"batchNumber": "B-2412-01","actualTempC": 51.5,4,,{
+  "batchNumber": "B-2412-01",
+  "stepName": "Смешивание",
+  "plannedTempC": 52.0,
+  "actualTempC": 51.5
+},,,
+Object,,,True,"batchNumber": "B-2412-01","actualTempC": 87.0,4,,{
+  "batchNumber": "B-2412-01",
+  "stepName": "Экструзия",
+  "plannedTempC": 88.0,
+  "actualTempC": 87.0
+},,,
